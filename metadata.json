@@ -1,0 +1,6 @@
+{
+  "name": "OmniMath AI - Scientific & Linear Algebra 3D Studio",
+  "description": "AI-powered scientific calculator, real-time 3D function grapher, and complex linear algebra engine with an interactive intelligent math assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
